@@ -12,6 +12,10 @@
   "dependencies": {
     "@grpc/grpc-js": "^1.11.3",
     "@grpc/proto-loader": "^0.7.13",
-    "@triton-one/yellowstone-grpc": "^0.6.0"
+    "@solana/web3.js": "^1.95.4",
+    "@triton-one/yellowstone-grpc": "^0.6.0",
+    "@types/node": "^22.9.1",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.5"
   }
 }
